@@ -1,3 +1,11 @@
+Welcome to Jesus Lozano's movie listing app
+'Key notes:
+This application has mock movie data for reviews ratings and the title of the movie stored in a component holding an array for each movie object.
+
+This app comes with basic functionality like being able to write a reviewand having it update in the DOM.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +76,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+This is A movie
