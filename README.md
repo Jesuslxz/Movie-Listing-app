@@ -1,8 +1,15 @@
-Welcome to Jesus Lozano's movie listing app
-'Key notes:
+ # Welcome to Jesus Lozano's movie listing app
+`Key notes:`
 This application has mock movie data for reviews ratings and the title of the movie stored in a component holding an array for each movie object.
 
-This app comes with basic functionality like being able to write a reviewand having it update in the DOM.
+This app comes with basic functionality like being able to write a review and having it update in the DOM or having a slider to set your own rating on a movie.
+
+This app is also only styled using bootstrap.
+
+due to no involvement using a database or an api call data is only stored in the same instance of the dom meaning nothing is actually being stored and will be wiped 
+once the page is reloaded.
+
+This App mostly serves as a template and practice using react components, state variables, and passing props from component to component.
 
 
 
